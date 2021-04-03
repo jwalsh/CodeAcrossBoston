@@ -1,4 +1,4 @@
-django==1.7.4
+django==1.11.29
 psycopg2
 python-social-auth
 dj-database-url
